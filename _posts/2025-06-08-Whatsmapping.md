@@ -13,23 +13,23 @@ Mapping in digital humanities allows researchers to uncover patterns, connection
 
 ## The research
 
-[ ] Prior to start with the actual mapping, there are a few steps to consider.
+- Prior to start with the actual mapping, there are a few steps to consider.
 
-[ ] Define Purpose & Scope – Clarify the goal, audience, and level of detail needed.
+- Define Purpose & Scope – Clarify the goal, audience, and level of detail needed.
 
-[ ] Background Research – Review existing maps, reports, and legal or historical data.
+- Background Research – Review existing maps, reports, and legal or historical data.
 
-[ ] Stakeholder Analysis – Identify and consult key individuals or groups involved.
+- Stakeholder Analysis – Identify and consult key individuals or groups involved.
 
-[ ] Select Mapping Area – Determine the boundaries and assess access or risks.
+- Select Mapping Area – Determine the boundaries and assess access or risks.
 
-[ ] Assess Data Needs – Identify what data to collect and in what format.
+- Assess Data Needs – Identify what data to collect and in what format.
 
-[ ] Choose Tools & Methods – Select software, equipment, and data collection techniques.
+- Choose Tools & Methods – Select software, equipment, and data collection techniques.
 
-[ ] Prepare Logistically – Get permissions, check equipment, and assign team roles.
+- Prepare Logistically – Get permissions, check equipment, and assign team roles.
 
-[ ] Consider Ethics & Sensitivity – Ensure respectful and responsible handling of cultural or personal data.
+- Consider Ethics & Sensitivity – Ensure respectful and responsible handling of cultural or personal data.
 
 ## Centre-Ville and May 30th, 1969 mapping
 
