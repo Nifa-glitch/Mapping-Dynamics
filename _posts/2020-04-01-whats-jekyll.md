@@ -1,12 +1,13 @@
 ---
 layout: post
-title: What's Jekyll?
+title: What's Mapping?
 ---
 
-[Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+In the context of digital humanities, mapping refers to the process of using digital tools to visualize, analyze, and interpret spatial or conceptual data related to human culture, history, or society. This can involve:
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+Geospatial Mapping – Linking cultural, historical, or literary data to physical locations using Geographic Information Systems (GIS) or web-based maps (e.g., mapping historical events, migration patterns, or archaeological sites).
 
-It's an immensely useful tool and one we encourage you to use here with Lanyon.
+Conceptual Mapping – Visualizing relationships between ideas, people, texts, or artifacts using network diagrams, timelines, or topic maps.
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+Mapping in digital humanities allows researchers to uncover patterns, connections, and insights that may not be visible through traditional methods, making it a powerful approach for both scholarly analysis and public engagement.
+
