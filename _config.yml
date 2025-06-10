@@ -2,7 +2,7 @@
 title:               Mapping Dynamics
 tagline:             'Different Approaches to Mapping'
 description:         'A collaborative research project to identify locations on street maps'
-url:                 http://lanyon.getpoole.com
+url:                https://nifa-glitch.github.io/Mapping-Dynamics/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
