@@ -37,6 +37,6 @@ To create both mappings the researchers used similar methods, however the presen
 
 ### Approach
 
-Both researchers consulted archives, documentation, phone books and oral history to be able to determin the exact location of the address for their maps. Cebtre-Ville is presented in a pdf-google file. While the May 30th, 69 mapping is made in Arc-Gis.
+Both researchers consulted archives, documentation, phone books and oral history to be able to determin the exact location of the address for their maps. Cebtre-Ville is presented in a pdf-google file. While the May 30th, 69 mapping is made in Arc-Gis. 
 
-Both creating a strong visual representation
+Both creating a strong visual representation of a once upon a time era.
