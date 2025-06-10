@@ -17,7 +17,7 @@ ArcGIS is a powerful geographic information system (GIS) software developed by E
 
 One of the main sources for this project was the documentary Huma:30 di Mei Lantamentu Anunsiá
 
-[!Huma Teaser](https://youtu.be/Va3UoZIVTjg?si=5eMwQPYMm_OLJlrRv=JLMbpiywVxQ)
+[Huma Teaser](https://youtu.be/Va3UoZIVTjg?si=5eMwQPYMm_OLJlrR)
 
 ### Map Example
 
